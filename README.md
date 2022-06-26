@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GautamBansall
 - 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning Basics of Cyber Security
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
